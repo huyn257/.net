@@ -1,0 +1,28 @@
+D:\visual\QL_Sinhvien\QL_Sinhvien\bin\Debug\QL_Sinhvien.exe.config
+D:\visual\QL_Sinhvien\QL_Sinhvien\bin\Debug\QL_Sinhvien.exe
+D:\visual\QL_Sinhvien\QL_Sinhvien\bin\Debug\QL_Sinhvien.pdb
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.AssemblyReference.cache
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.SuggestedBindingRedirects.cache
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_main.resources
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.Properties.Resources.resources
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.GenerateResource.cache
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.CoreCompileInputs.cache
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.exe
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.pdb
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_khoa.resources
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_lop.resources
+D:\visual\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_sinhvien.resources
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\bin\Debug\QL_Sinhvien.exe.config
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\bin\Debug\QL_Sinhvien.exe
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\bin\Debug\QL_Sinhvien.pdb
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.AssemblyReference.cache
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.SuggestedBindingRedirects.cache
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_khoa.resources
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_lop.resources
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_main.resources
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.F_sinhvien.resources
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.Properties.Resources.resources
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.GenerateResource.cache
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.csproj.CoreCompileInputs.cache
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.exe
+D:\csharp\QL_Sinhvien 2\QL_Sinhvien\QL_Sinhvien\obj\Debug\QL_Sinhvien.pdb
